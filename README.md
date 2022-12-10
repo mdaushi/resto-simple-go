@@ -58,7 +58,7 @@ laporan tahunan
 
 ## Cara jalankan
 1. setup dan jalankan postgres
-2. config string sb ke .env di pkg/common/env
+2. paste config string Postgres ke .env di pkg/common/env
 3. go run cmd/main.go
 
 *pada saat pertama kali dijalankan seeder user dan menu langsung runnig. jika tidak ingin jalankan seeder komentar kodenya di pkg/common/db/db.go
